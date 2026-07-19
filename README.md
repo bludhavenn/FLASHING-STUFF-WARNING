@@ -19,4 +19,3 @@
 <img width="400" height="222" alt="2519FEA8-F390-4DC0-83AA-951C7B0AB284" src="https://github.com/user-attachments/assets/67fb35ef-ede3-415f-ad6b-3ee9c6c637e7" />
 <img width="500" height="281" alt="6EFE0437-D3AF-4E98-8C0F-94CE2F4C7D5F" src="https://github.com/user-attachments/assets/b1131542-f1bb-4d64-8210-382c44e7c2ca" />
 <img width="498" height="250" alt="B8A68F20-9D37-4187-892F-A4D393820961" src="https://github.com/user-attachments/assets/92b6765a-f877-4cba-9ada-d4c5117b51c6" />
-# FLASHING-STUFF-WARNING
